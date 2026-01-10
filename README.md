@@ -50,7 +50,7 @@ Press-Gallery/
 
 *Technical architectures for governance recovery.*
 
-* [**The Tactual-Pledger Operational Specification**](https://drive.google.com/open?id=1Qm5g6m0Hlp1saNdsLHkA06r_WBNQnlg0Y) `TACTUAL-PLEDGER-brief.pdf` — A brief on the new mechanism for civic-state partnership, designed to replace traditional lobbying with "pledged" expert intelligence.  
+* [**The Tactual-Pledger Operational Specification**](https://drive.google.com/file/d/1aETq0NRkRC2vdhRM33Xyuur_j-4wQq3E/view?usp=drive_link) `TACTUAL-PLEDGER-brief.pdf` — A brief on the new mechanism for civic-state partnership, designed to replace traditional lobbying with "pledged" expert intelligence.  
 * [**Conspectus of Affiliate Signal Strategies**](https://drive.google.com/open?id=111-SMH6ai5t56ZdHRbNS99-HO7JcPlLT) `affilate-strategies.txt` — An internal methodology for aligning civic and technical bodies to force a Private Member's Motion through coordinated reporting.
 
 ### **03 Media Collateral**
