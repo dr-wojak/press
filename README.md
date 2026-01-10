@@ -41,7 +41,7 @@ Press-Gallery/
 
 *Official statements regarding the breach of administrative duty.*
 
-* [**The Preamble to the Memorial of Default**](https://drive.google.com/open?id=1aETq0NRkRC2vdhRM33Xyuur_j-4wQq3E) `press-release-preamble.pdf` — The foundational argument for why the State's non-responsiveness to Operations Research (O.R.) constitutes a justiciable fiduciary breach.  
+* [**The Preamble to the Memorial of Default**](https://drive.google.com/file/d/1YJXycFDepixAksfl6z5w-VL04tkqI-GL) `press-release-preamble.pdf` — The foundational argument for why the State's non-responsiveness to Operations Research (O.R.) constitutes a justiciable fiduciary breach.  
 * [**The 2025 AI Preparedness & Governance Dispatch**](https://drive.google.com/open?id=1FcvppEi8Wkg0XF2fW2wq6aB0Bo1E9wia) `ai-preparedness-press-release.pdf` — A technical alert regarding the absence of a mathematical "Operational Baseline" in the State's current AI strategy.  
 * [**Notice of Systemic Redundancy and Administrative Waste**](https://drive.google.com/open?id=1j6FI67bBpm1IqBLTi00CcWM3NOEFwMpt) `redundancy-awareness-press-release.pdf` — Documentation of the "Redundancy Record": expert intelligence that was ignored until the associated national risks became unavoidable.  
 * [**Fógra don Phreas: Treascairt i mBainistíocht Phoiblí**](https://drive.google.com/open?id=1GthJYUX21ZPtm2jFBDJgdAqTIrgj5ybI) `Preasráiteas Meinhardt Treascairt i mBainistíocht Phoiblí.pdf` — An Irish-language proclamation regarding the structural disruption required to restore integrity to public management.
@@ -50,7 +50,7 @@ Press-Gallery/
 
 *Technical architectures for governance recovery.*
 
-* [**The Tactual-Pledger Operational Specification**](https://drive.google.com/file/d/1aETq0NRkRC2vdhRM33Xyuur_j-4wQq3E/view?usp=drive_link) `TACTUAL-PLEDGER-brief.pdf` — A brief on the new mechanism for civic-state partnership, designed to replace traditional lobbying with "pledged" expert intelligence.  
+* [**The Tactual-Pledger Operational Specification**](https://drive.google.com/file/d/1aETq0NRkRC2vdhRM33Xyuur_j-4wQq3E) `TACTUAL-PLEDGER-brief.pdf` — A brief on the new mechanism for civic-state partnership, designed to replace traditional lobbying with "pledged" expert intelligence.  
 * [**Conspectus of Affiliate Signal Strategies**](https://drive.google.com/open?id=111-SMH6ai5t56ZdHRbNS99-HO7JcPlLT) `affilate-strategies.txt` — An internal methodology for aligning civic and technical bodies to force a Private Member's Motion through coordinated reporting.
 
 ### **03 Media Collateral**
