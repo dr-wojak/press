@@ -4,7 +4,7 @@
 
 ## **Overview**
 
-The Press Gallery serves as the designated interface for members of the Fourth Estate. It provides a structured, evidentiary "Briefing Pack" designed to survive the rigours of investigative fact-checking. By providing the primary source data for the **Nineteen-Year Timeline**, we move the narrative from speculative to verifiable, documenting the precise moments where the State's administrative architecture failed to absorb critical strategic signals.
+The Press Gallery serves as the designated interface for members of the Fourth Estate. It provides a structured, evidentiary Briefing Pack designed to survive the rigours of investigative fact-checking. By providing the primary source data for the **19-Year Timeline**, we move the narrative from speculative to verifiable, documenting the precise moments where the State's administrative architecture failed to absorb critical strategic signals.
 
 ---
 
