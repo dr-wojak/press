@@ -57,10 +57,10 @@ Press-Gallery/
 
 *Visual assets and high-density summaries for public distribution.*
 
-* [**Press Briefing (Standard Edition)**](https://drive.google.com/file/d/1Qm5g6m0Hlp1saNdsLHkA06rWBNQnlg0Y) `press-pamphlet.pdf` — A concise summary of the Governmentality 2025 project, formatted for rapid onboarding of parliamentary staff and the public.  
+* [**Press Briefing (Standard Edition)**](https://drive.google.com/file/d/1Qm5g6m0Hlp1saNdsLHkA06rWBNQnlg0Y/view?usp=drive_link) `press-pamphlet.pdf` — A concise summary of the Governmentality 2025 project, formatted for rapid onboarding of parliamentary staff and the public.  
 * [**Press Briefing (Optimised/Technical Edition)**](https://drive.google.com/file/d/1GthJYUX21ZPtm2jFBDJgdAqTIrgj5ybI) `press-pamphlet-3o.pdf` — An expanded version of the pamphlet focusing on the architecture of accountability and the technical failures of the Executive.  
 * [**Public Relations: Rapid Access QR**](https://drive.google.com/file/d/1kckkAXkBihORv5T5FziKjZIYecxo9RyB) `meinhardt-public-relations-qr1.png` — A high-resolution media asset providing a direct digital bridge to the Public Relations repository.  
-* [**Tactual-Pledger Organisational Topology**](https://drive.google.com/open?id=1NEJYSTd7SdH9_l8DA7roR4Q_E2GohgE6) `tactual-pledger-organisation-pr.png` — A visualisation mapping how the Tactual Pledger model reintegrates expert decision-science into the hollowed-out sectors of the Civil Service.
+* [**Tactual-Pledger Rapid Access QR - Form and Forum**](https://drive.google.com/open?id=1NEJYSTd7SdH9_l8DA7roR4Q_E2GohgE6) `tactual-pledger-organisation-pr.png` — Open Development and maintainence of the Tactual Pledger model, integrating expert decision-science into the most risk-averse sectors of the Civil Service.
 
 ---
 
